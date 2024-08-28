@@ -1,0 +1,19 @@
+.container {
+  margin-top: 85px;
+}
+.card-login-splash {
+  background-color: #424242;
+}
+
+span.helper-text {
+  color: red;
+}
+
+tr.empresa-item:hover {
+  cursor: pointer;
+  background-color: aliceblue;
+}
+
+tr.empresa-item:active{
+  color: blue;
+}
